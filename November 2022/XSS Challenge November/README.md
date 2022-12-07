@@ -2,7 +2,7 @@
 
 ## Problem
 
-** The challenge is to capture the hidden flag and alert a simple message by loading external script.
+**The challenge is to capture the hidden flag and alert a simple message by loading external script.**
 
 ## Rules and related Information
 
