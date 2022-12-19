@@ -25,4 +25,4 @@ BrunoHalltari
 
 ## Solution/Write up
 
-[Writeup](https://github.com/BrunoHalltari/CTF-Writeups/tree/master/securityboat-challenge)
+[Writeup](https://securityboat.in/securityboat-ctf-xss-challenge-november/)
