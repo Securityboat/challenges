@@ -28,8 +28,12 @@
 - [linkedIn](https://www.linkedin.com/posts/securityboat_infosec-cybersecurity-bugbounty-activity-6995754446743826432-RUEk?utm_source=share&utm_medium=member_android)
 - [Instagram](https://www.instagram.com/p/CktEJFlqTiB/?utm_source=ig_web_copy_link)
 
-## Best Solution attempt
+## Best Solution
 
 ```
 var  a = "prompt('duh')"; prompt('pwned');
 ```
+
+## Write up
+
+[Writeup](https://securityboat.in/spot-the-vulnerability-xss-challenge-simplified/)
