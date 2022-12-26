@@ -2,7 +2,7 @@
 
 ## Problem
 
-**The task is to spot the vulnerability in the provided static code snippet and trying bypassing it by providing payload to iclude important server files like /etc/passwd or /etc/shadow etc.**
+**The task is to spot the vulnerability in the provided static code snippet and trying bypassing it by providing payload to include important server files like /etc/passwd or /etc/shadow etc.**
 
 ## Snippet
 
